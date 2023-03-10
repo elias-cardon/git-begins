@@ -8,3 +8,7 @@ Les 3 commandes de push:
 git add <nom-du-fichier-modifié>
 git commit -m "Description des modifications effectuées"
 git push
+
+Pour pull un repository :
+
+git pull
